@@ -1,7 +1,6 @@
 # react-image-data-generator
 
 
-```markdown
 
 A Python script to automate the creation of a React-compatible array of image data from images stored in a specific folder. This can be useful for dynamically managing and displaying images in a React project, with details such as the file name, modification date, and folder name prepared in a structured format.
 
@@ -44,7 +43,7 @@ folder_path = r'C:\path\to\your\image\folder'
 output_file = r'C:\path\to\your\output\file.txt'
 
 write_image_names_to_file(folder_path, output_file)
-```
+
 
 ## Sample Output
 
